@@ -1,6 +1,5 @@
-
-  # Starting fuide for Inclov web-app
-
+  # Starting Guide for Inclov Web-App
+  
   <img src="https://i.imgur.com/DgrRgq3.png" alt="Inclov Webapp Image" style="float: left; margin-right: 10px;"/></br>
 
 
@@ -18,8 +17,6 @@ Verify email address – Thereafter, you will be required to verify your email a
 Verify mobile number – You will also be required to verify your phone number through OTP sent to your registered phone number.
 Discover People – Now, you can start discovering new profiles and matching with them on the Inclov app.
 Please note that your profile will be reviewed within 48 hours and only after it gets approved, you will be able to connect to any user. The review process is essential to ensure only real profiles and to keep away any spammers and fake users.
-
- * A pro tip: To get your profile approved quickly, provide only  accurate data including real names, photographs, mobile numbers and email id, which gets verified automatically.
 
 ## Logging or Sign in
 
